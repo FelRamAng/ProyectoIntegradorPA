@@ -1,0 +1,9 @@
+D:\Programas HDD\Visual Studio\Repos\ProyectoIntegradorPA\Modelo\bin\Debug\Modelo.exe.config
+D:\Programas HDD\Visual Studio\Repos\ProyectoIntegradorPA\Modelo\bin\Debug\Modelo.exe
+D:\Programas HDD\Visual Studio\Repos\ProyectoIntegradorPA\Modelo\bin\Debug\Modelo.pdb
+D:\Programas HDD\Visual Studio\Repos\ProyectoIntegradorPA\Modelo\obj\Debug\Modelo.Properties.Resources.resources
+D:\Programas HDD\Visual Studio\Repos\ProyectoIntegradorPA\Modelo\obj\Debug\Modelo.csproj.GenerateResource.cache
+D:\Programas HDD\Visual Studio\Repos\ProyectoIntegradorPA\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+D:\Programas HDD\Visual Studio\Repos\ProyectoIntegradorPA\Modelo\obj\Debug\Modelo.exe
+D:\Programas HDD\Visual Studio\Repos\ProyectoIntegradorPA\Modelo\obj\Debug\Modelo.pdb
+D:\Programas HDD\Visual Studio\Repos\ProyectoIntegradorPA\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
